@@ -7,4 +7,4 @@ pandas_profiling
 streamlit_pandas_profiling
 mlxtend
 scikit-learn
-plotly.express
+plotly==5.11.0
