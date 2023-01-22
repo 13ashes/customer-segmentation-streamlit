@@ -1,7 +1,7 @@
 streamlit
 numpy
 pandas
-plotly==5.11.0
+plotly.express
 datetime
 ipywidgets
 pandas_profiling 
