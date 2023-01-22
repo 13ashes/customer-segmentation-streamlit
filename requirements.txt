@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+plotly
+datetime
+ipywidgets
+pandas_profiling 
+streamlit_pandas_profiling
+mlxtend
+scikit-learn
+matplotlib
+seaborn
