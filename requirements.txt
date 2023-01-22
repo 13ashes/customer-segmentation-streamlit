@@ -1,10 +1,10 @@
 streamlit
 numpy
 pandas
+plotly==5.11.0
 datetime
+scikit-learn
 ipywidgets
 pandas_profiling 
 streamlit_pandas_profiling
 mlxtend
-scikit-learn
-plotly==5.11.0
