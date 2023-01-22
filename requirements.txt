@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
-plotly==5.11.0
+plotly
 datetime
 scikit-learn
 ipywidgets
